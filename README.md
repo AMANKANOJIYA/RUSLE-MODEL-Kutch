@@ -82,6 +82,10 @@ You can modify the following parameters in the code:
 - **Classification thresholds**: Modify the expressions in `SL_class` to adjust soil loss severity classes
 - **Export settings**: Update the export parameters to save results to your preferred location
 
+## Working
+
+[More details click](DOCUMENT.md)
+
 ## Results
 
 The code produces the following outputs:
