@@ -59,6 +59,20 @@ var aoi = ee.FeatureCollection('projects/your-project-id/assets/Kachchh');
 3. Run the script to generate soil erosion maps and statistics
 4. Export the results to Google Drive using the export tools provided in the code
 
+## Images
+
+### CODE SNIPIT
+![code](./Images/CODE.jpg)
+
+### Factor Layer
+![Factor Layer](./Images/FACTORLAYER.jpg)
+
+### Rusle Model
+![Rusle Model](./Images/RUSLEMODEL.jpg)
+
+### Rusle Layer
+![Rusle Layer](./Images/RUSLELAYER.jpg)
+
 ## Configuration
 
 You can modify the following parameters in the code:
