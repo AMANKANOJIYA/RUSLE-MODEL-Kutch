@@ -124,7 +124,7 @@ The code includes functionality to export:
 
 If you use this code in your research, please cite as:
 ```
-[Your Name]. (2025). RUSLE Model for Soil Erosion Assessment in Kachchh District. GitHub Repository.
+Radhika Kanojiya. (2025). RUSLE Model for Soil Erosion Assessment in Kachchh District. GitHub Repository.
 ```
 
 ## License
